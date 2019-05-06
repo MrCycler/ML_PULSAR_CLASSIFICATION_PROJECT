@@ -57,6 +57,10 @@ Web:		http://www.scienceguyrob.com or http://www.cs.manchester.ac.uk
 	7. Excess kurtosis of the DM-SNR curve.
 	8. Skewness of the DM-SNR curve.
 	
+	Abreviatures:
+	
+	ip_mean,ip_sd,ip_ek,ip_sk,DMSNR_mean,DMSNR_sd,DMSNR_ek,DMSNR_sk
+	
 	HTRU 2 Summary
 	
 	17,898 total examples.
