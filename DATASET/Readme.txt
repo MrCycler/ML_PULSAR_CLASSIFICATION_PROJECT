@@ -59,7 +59,7 @@ Web:		http://www.scienceguyrob.com or http://www.cs.manchester.ac.uk
 	
 	Abreviatures:
 	
-	ip_mean,ip_sd,ip_ek,ip_sk,DMSNR_mean,DMSNR_sd,DMSNR_ek,DMSNR_sk
+	ip_mean,ip_sd,ip_ek,ip_sk,DMSNR_mean,DMSNR_sd,DMSNR_ek,DMSNR_sk,is_pulsar
 	
 	HTRU 2 Summary
 	
