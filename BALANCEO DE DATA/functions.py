@@ -27,7 +27,7 @@ def eval_model(model, X_val, y_val):
   #Print de las metricas
   print('El MSE para el modelo '+type(model).__name__ +' es: ',MSE)
   print('El accuracy para el modelo '+type(model).__name__ +' es: ',accuracy)
-  print('El precision para el modelo '+type(model).__name__ +' es: ',precision)
+  print('La precisión para el modelo '+type(model).__name__ +' es: ',precision)
   print('El recall para el modelo '+type(model).__name__ +' es: ',recall)
   print('El F1-score para el modelo '+type(model).__name__ +' es: ',f1score)
   
