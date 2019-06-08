@@ -8,9 +8,10 @@ Original file is located at
 """
 
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, mean_squared_error, confusion_matrix
-import seaborn as sns
-sns.set()
+
 def eval_model(model, X_val, y_val):
+  import seaborn as sns
+  sns.set()
   #Realizando la prediccion del modelo
   y_pred = model.predict(X_val)
   #Calculando el error cuadratico medio
