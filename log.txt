@@ -1,0 +1,425 @@
+commit e9a92f5c51d80b871fbfafb6872423cf904930b1
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon Jun 17 16:02:51 2019 -0500
+
+    Comentarios adicionales PCA
+
+commit 3a98dd76f5d10721a2de6f06db0343db11488073
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Mon Jun 17 13:42:59 2019 -0500
+
+    Comentarios Fuzzy-KNN y SMOTE-ENN
+
+commit 517ff56129685234c8813942b30f8d1ca8fbc02a
+Author: HildaSamame <a20194015@pucp.edu.pe>
+Date:   Mon Jun 17 00:46:50 2019 -0500
+
+    Comentarios
+    
+    Se agregaron comentarios
+
+commit 9e5e32be84b8ef0fe3dec77e0372de10017f80e9
+Author: HildaSamame <a20194015@pucp.edu.pe>
+Date:   Sun Jun 16 20:09:52 2019 -0500
+
+    Finalización de pruebas con data normalizada
+    
+    Se terminó de correr el ANN, KNN que faltaban.
+
+commit e3c48475ca464f60786f3304376e6bb87626d078
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sun Jun 16 13:20:39 2019 -0500
+
+    FInalización de pruebas con SMOTE-ENN
+
+commit 3f5a4538131fa6b319e30454b2a005b0038df0d0
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sun Jun 16 11:39:31 2019 -0500
+
+    Fuzzy-KNN completo e imagenes
+
+commit c3a04f141b768a6c80d9feda10adfcc98a5ab5b9
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sat Jun 15 16:38:10 2019 -0500
+
+    Modificación Replica Fuzzy-KNN
+
+commit e2ea1a35bf31454b347a6f11d1d88f5ac65bdea8
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Thu Jun 13 09:31:00 2019 -0500
+
+    Evaluación con SMOTE-ENN y replica del Fuzzy-KNN
+
+commit 068d0af46af30a35ed94b380b121a2657069b300
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Tue Jun 11 01:12:38 2019 -0500
+
+    Análisis de Data cruda y balanceada aplicando Grid Search
+
+commit ddff3f2e60ca50b02bdd200d1c1dc6ccc5258031
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon Jun 10 11:24:56 2019 -0500
+
+    Prueba de un ensamble
+
+commit 8c3697cc04d3ece58e3f395a5cc139498f8dd29b
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Sun Jun 9 18:13:02 2019 -0500
+
+    Análisis de Data cruda aplicando Grid Search
+
+commit 7119034a17e8ddc5f66beb2038b46282ea912a99
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 18:45:55 2019 -0500
+
+    Data cruda - GridSearchCV
+
+commit cbf804f93a409497a87de04791dc9cf77f4c240e
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sat Jun 8 18:43:31 2019 -0500
+
+    Fuzzy-IKNN
+
+commit 6f5aa455b09fccebf66d09188300ea1c4c4f2e8f
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sat Jun 8 18:42:05 2019 -0500
+
+    Auto stash before merge of "master" and "origin/master"
+    
+    Avance de Fuzzy-KNN
+
+commit 6ea65efed5e9af433c3283139462ae10a4f6a7d0
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 18:40:29 2019 -0500
+
+    Prueba Datos Normalizada
+    
+    Aplicación de los 4 algoritmos, con data normalizada y data normalizada y balanceada
+
+commit c209886dacc58f01c0d0c116a1540a886e4f84ba
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 18:26:10 2019 -0500
+
+    Cambio Function
+    
+    Corrección
+
+commit db85625bee823434e8b5ec493b1d19881a652f12
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 18:19:16 2019 -0500
+
+    PCA_SMOTE_completed
+
+commit 33cb2a1c53a17f1cca4b565b574ab3079d31303c
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 18:09:56 2019 -0500
+
+    PCA_SMOTE_con_algoritmos created
+
+commit 3a576abad01265d4a3382d22ed72350cb4cdbaad
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 18:05:24 2019 -0500
+
+    Update PCA_con_algoritmos
+
+commit 083a35a968dd925c84ce1c61e51a4f6dda5f26ee
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 17:47:53 2019 -0500
+
+    PCA con KNN and RF
+
+commit 71198808b2b7744d4713e40b819715a5a7a2552d
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 17:26:21 2019 -0500
+
+    Prueba Algoritmo Data cruda
+
+commit ac7e45d9e3e9edd61b1cc116f16808e160dcfdcd
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 17:14:57 2019 -0500
+
+    PCA con SVM
+
+commit 9af9fc747d9fd8064a42d00f7324a557622cbcaf
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 16:33:23 2019 -0500
+
+    PCA con redes neuronales
+
+commit 11f4dea26b491484105df18252779f983d2254ff
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 15:35:07 2019 -0500
+
+    Pruebas SmoteTomek
+
+commit caeab38e043135376785df235ca3524b99234b85
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 15:32:18 2019 -0500
+
+    Cambio
+
+commit d6e70b8ea2b046d4d77a9f9a9e2f6ce99fa18824
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 15:29:02 2019 -0500
+
+    Cambio sns.set
+    
+    Se agregó la línea sns.set
+
+commit e74d1b626f4b76de250257a78530f3ac1299c9c2
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 15:27:33 2019 -0500
+
+    Archivo Functions py - Libería seaborn
+    
+    Se agregó import sns
+
+commit f3be388b31a7b60900e92c3fd68da8bc537a0ad8
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 15:20:19 2019 -0500
+
+    Functions py
+    
+    Archivo con funciones
+
+commit 8f3fcac9e9368e3205514e974caa8880a5fe58f4
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 14:54:01 2019 -0500
+
+    Redes Neuronales - Evaluacion
+
+commit b14582859ac7b34fb0e97ef94ee8e6ad6977e3e4
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 14:42:08 2019 -0500
+
+    Redes Neuronales sobre data balanceada
+
+commit 1f9ed2c7913760f7ef7cbfb4acb33219976f733e
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 14:30:11 2019 -0500
+
+    Avance 2 Pruebas ADASYN
+
+commit fe7b3e738bc21b5287a18a867416b20524543a76
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 14:15:52 2019 -0500
+
+    Archivo Functions
+    
+    Archivo donde se guardan las funciones globales que se usarán en el proyecto.
+
+commit 506f8d687dd333a10732427f184c305d4afa2415
+Author: Hilda <a20194015@pucp.edu.pe>
+Date:   Sat Jun 8 14:06:48 2019 -0500
+
+    Prueba SVMSMOTE
+    
+    Aplicación de SVSMOTE en los 4 algoritmos con la data normalizada
+
+commit 9badaf49cb253b808283dd3c16af958089ffeeda
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 13:58:51 2019 -0500
+
+    Redes Neuronales por defecto
+
+commit c8d15c56a04f1736a10766f6e3f2760a3b467c61
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 13:57:14 2019 -0500
+
+    Avance 3 Redes Neuronales
+
+commit 522bb65ed4211f7dbb03663be9d7c8d1fedeb650
+Author: Silvana Almeyda <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 13:52:30 2019 -0500
+
+    Avance Pruebas ADASYN
+
+commit d62a80e1e6d134f47801d4d2ea59b7053fcf1818
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 13:42:13 2019 -0500
+
+    Avance 2 Redes Neuronales
+
+commit 564bc84086f58d352633370823e4874a66b72a66
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sat Jun 8 13:36:44 2019 -0500
+
+    Prueba algoritmos con smote-enn
+
+commit 8c2352d58eef0e3e33b2de9aecd8191827600c4a
+Author: Silvana <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 13:18:09 2019 -0500
+
+    Pre-procesamiento de data (box-plots e histograma)
+
+commit dcb1a665e785318ba3be4400e9594c995e969a54
+Author: Silvana <a20194256@pucp.edu.pe>
+Date:   Sat Jun 8 13:16:57 2019 -0500
+
+    Se actualiza archivo HTRU_2_con_header
+
+commit 8532c82aceb0079a8c30349f7d55d1eb27a2ac25
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 13:14:42 2019 -0500
+
+    Avance Redes Neuronales
+
+commit b459c224a38bbb748ac569c4874f2dacc82fdf69
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 12:49:16 2019 -0500
+
+    Configuración
+
+commit 9f00cbd33c58196cb189ad872bc4af988b45ad68
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sat Jun 8 12:28:30 2019 -0500
+
+    SMOTE - KNN DATA CRUDA
+
+commit 08810dbf43c449b00dc1e7c8aa930b845b1debdc
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Sat Jun 8 12:18:58 2019 -0500
+
+    Cambio SMOTE
+
+commit fbdee4bde0e99d7b4d27d6e8822be1cf0c7dc458
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Sat Jun 8 08:26:14 2019 -0500
+
+    Reorder of directories
+
+commit 42177fbd22562eafe5f2427bb7fcdcf10ecc368f
+Author: HildaSamame <a20194015@pucp.edu.pe>
+Date:   Sun Jun 2 03:01:49 2019 -0500
+
+    Distribución y Proporción de variable objetivo
+    
+    Distribución y Proporción de variable objetivo
+
+commit 6f23402594ba420b4d10d89a591c16a1143ffdc0
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Wed May 29 18:10:03 2019 -0500
+
+    SVM algorithm test
+
+commit e0f18d3ffaf5a943f3b634e8146598ee426e3392
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Wed May 29 16:44:13 2019 -0500
+
+    Data Split (revisar) y RF algorithm
+
+commit a2eb9703ea6008305bc2b3f590d89cb4cc1813ea
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Wed May 29 16:01:22 2019 -0500
+
+    Scatter Plot, Min-Max Scaling
+
+commit f83e3476fca64e13f2b56cea88df49b0db9853ae
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Thu May 16 15:32:58 2019 -0500
+
+    Avance de análisis univariable (medidas de tendencia)
+
+commit 151e4f0b8a5b821dca615df1faa6f9f316a7ab10
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Tue May 7 11:36:39 2019 -0500
+
+    notebook of visualization fixed
+
+commit 3c583af5fc3b1bb21801fad1d736aaf43e577ca5
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Tue May 7 11:34:17 2019 -0500
+
+    Fixes files and notebook of visualization.
+
+commit d01624a3e581dd6457d92ed3ff1bdd81f8b1ab76
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 21:46:38 2019 -0500
+
+    Fixed HTR2_con_header conflict
+
+commit 2978e790b84d3de031695587b912a29ed5a14bb7
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 21:43:59 2019 -0500
+
+    Auto stash before merge of "master" and "origin/master"
+
+commit 96d8fcd41ba379358372fe1f49115b206dc3ea86
+Merge: f03eb16 09bf243
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 21:43:33 2019 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit f03eb16111ef36a695ebd532b306b6e2bb5fe9fe
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 21:43:16 2019 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 1f5c6f1eedc265fd43526c96f5cd69df803dc378
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 21:41:35 2019 -0500
+
+    Eliminacion de HTRU_2
+
+commit 09bf243f51a5a6bb6ab1806ee5dc32656a9f8e95
+Author: Jose Balbuena <jose.balbuena@pucp.pe>
+Date:   Mon May 6 21:35:23 2019 -0500
+
+    Cambio de la lectura del csv, ejemplos y modificación para usar colab
+
+commit 0c763f5a2c96e34b4552a4ae0efb0cc0ff898fc5
+Author: JBalbuenaG <50080605+JBalbuenaG@users.noreply.github.com>
+Date:   Mon May 6 20:13:42 2019 -0500
+
+    Update README.md
+
+commit de422628011b58e7dcb3a62a878cb45acacfc16f
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 17:18:25 2019 -0500
+
+    DATASET visualization
+
+commit 00f3c815769903085076a5065c200f6a184f73a6
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 16:54:29 2019 -0500
+
+    DATASET char titles fix
+
+commit 07b8b640fece9114214d1823cad3418c9ac9712b
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 16:48:05 2019 -0500
+
+    DATASET char titles added, First Python Notebook.
+
+commit 7bc1990936853cdb25b3fcbd4e182bb151d1f8e8
+Merge: c93e57f eb9e6a3
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 16:13:12 2019 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit c93e57fb26e9a221c3cd2fbc1945bfd5214147b7
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 16:09:14 2019 -0500
+
+    Update Readme.md
+
+commit eb9e6a3e2031aefe64e8d80f11fb2ab9787556cc
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 16:09:14 2019 -0500
+
+    Update Readmen.md
+
+commit 026e3893b5971981965c72bbf78c808eb1b21255
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 16:06:17 2019 -0500
+
+    DATASET HTRU_2  included
+
+commit f4d8f2a42015f5c30a25d10abece691f00efa27e
+Author: Juan Mendoza <mendoza.jm@pucp.pe>
+Date:   Mon May 6 15:56:09 2019 -0500
+
+    Initial commit. Git Sheet Cheat included
