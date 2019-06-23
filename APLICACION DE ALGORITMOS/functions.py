@@ -24,6 +24,7 @@ def eval_model(model, X_val, y_val):
   recall = recall_score(y_val, y_pred)
   f1score = f1_score(y_val, y_pred)
   gmean = sqrt(precision * recall)
+
   #Print de las metricas
   print('El MSE para el modelo '+type(model).__name__ +' es: ',MSE)
   print('El accuracy para el modelo '+type(model).__name__ +' es: ',accuracy)
@@ -31,6 +32,5 @@ def eval_model(model, X_val, y_val):
   print('El recall para el modelo '+type(model).__name__ +' es: ',recall)
   print('El F1-score para el modelo '+type(model).__name__ +' es: ',f1score)
   print('El G-mean para el modelo '+type(model).__name__ +' es: ',gmean)
-  
   sns.heatmap(conf,annot=True, fmt="d", cmap="coolwarm");
   return None
