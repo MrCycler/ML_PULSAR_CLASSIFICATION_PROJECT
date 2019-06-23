@@ -8,6 +8,7 @@ Original file is located at
 """
 
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, mean_squared_error, confusion_matrix
+from math import *
 
 def eval_model(model, X_val, y_val):
   import seaborn as sns
